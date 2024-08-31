@@ -1,0 +1,21 @@
+//wap to print first N odd natural numbers in reverse order 
+#include<stdio.h>
+int main(){
+int i,N;
+printf("enter a number ");
+scanf("%d",&N);
+i=N;
+if(N%2){
+while(i>0){
+    printf("\n%d",i);
+    i=i-2;}
+    
+}
+else{
+        i=i-1;
+        while(i>0){
+    printf("\n%d",i);
+    i=i-2;}
+    }
+    return 0;
+}

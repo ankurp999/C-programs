@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "swAP.C": "cpp",
+        "stdio.h": "c",
+        "Q1.C": "cpp",
+        "algorithm": "cpp",
+        "ostream": "cpp",
+        "sstream": "c",
+        "string.h": "c",
+        "1.C": "cpp",
+        "8.C": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
